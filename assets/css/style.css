@@ -1,0 +1,35 @@
+.logo{
+    width: 15em;
+    margin-left: 40%;
+}
+
+.banner{
+        background-image: url("/assets/imgs/BANNER.jpg"); 
+        background-size: 100%; background-position: center;
+        padding: 0px 0px 0px 0px;
+}
+
+.center{
+    text-align: center;    
+}
+
+.menu{
+    color: white !important;
+    background-image: linear-gradient(red, green, blue);
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffc578+0,fb9d23+50 */
+    background: #ffc578; /* Old browsers */
+    background: -webkit-linear-gradient(#ffc578 0%, #fb9d23 50%);
+    background: -moz-linear-gradient(#ffc578 0%, #fb9d23 50%);
+    background: -o-linear-gradient(#ffc578 0%, #fb9d23 50%);
+    background: linear-gradient(#ffc578 0%, #fb9d23 50%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc578', endColorstr='#fb9d23',GradientType=0 ); /* IE6-9 */
+    text-shadow: 2px 2px 2px black;
+    padding: 0px 0px 0px 0px;
+}
+
+.column-main{
+    background-color: yellow;
+    height: 40em;
+}
+
+
